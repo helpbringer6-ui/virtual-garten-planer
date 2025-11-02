@@ -11,6 +11,6 @@
     "express": "^4.17.1",
     "body-parser": "^1.19.0"
   },
-  "author": "Ihr Name",
+  "author": "Max Mustermann",
   "license": "MIT"
 }
