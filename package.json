@@ -1,7 +1,7 @@
 {
   "name": "virtueller-garten-planer",
   "version": "1.0.0",
-  "description": "Ein innovatives Augmented-Reality-Tool zur Gestaltung und Visualisierung von Gärten und Landschaften.",
+  "description": "Innovatives Augmented-Reality-Tool zur Gestaltung und Visualisierung von Gärten und Landschaften.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
